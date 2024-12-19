@@ -1,3 +1,6 @@
 print(hi)
 print(hello)
+<<<<<<< HEAD
 print(hello)
+=======
+>>>>>>> aea96401a6b0d172234cfe9025f97ef9e60eb88e
